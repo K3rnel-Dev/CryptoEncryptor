@@ -1,0 +1,12 @@
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\bin\Release\CryptoEncryptor.exe.config
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\bin\Release\CryptoEncryptor.exe
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\bin\Release\CryptoEncryptor.pdb
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.csproj.AssemblyReference.cache
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.DecryptForm.resources
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.Form1.resources
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.KeysGen.resources
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.Properties.Resources.resources
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.csproj.GenerateResource.cache
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoData.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoEncryptor.exe
+C:\Users\X\Desktop\Codes\NativePrograms\CryptoData\obj\Release\CryptoEncryptor.pdb
